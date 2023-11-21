@@ -70,6 +70,8 @@ This repoitory and contents was originally created and designed by by me, Nikita
 
 ##### Version:
 
+`v2.0.7 - | Added Robot Gladiator v2.0.2`
+
 `v2.0.6 - | some W3C document validation fixes to html and css`
 
 `v2.0.5 - | remove and added some meta arributes, edited manifest, icon fix.`
